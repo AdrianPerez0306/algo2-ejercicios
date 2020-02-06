@@ -4,6 +4,6 @@ Este repositorio contiene ejercicios para modelar e implementar en código y te 
 
 ## Guía de ejercitación práctica
 
-- [Repaso](repaso/index.md)
+- [Introducción](intro/index.md)
 
 
