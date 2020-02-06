@@ -1,3 +1,4 @@
+![agricultores](../images/agricultoresSmall.jpg)
 
 ## Agricultores
 
