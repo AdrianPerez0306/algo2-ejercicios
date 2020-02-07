@@ -19,3 +19,5 @@ Aquí recordaremos algunos temas importantes como punto de partida para diseñar
 ## Excepciones
 
 - [Pepita 100% con excepciones](pepitaExcepciones.md)
+- [Solicitudes de notebooks](solicitudesNotebooks.md)
+
