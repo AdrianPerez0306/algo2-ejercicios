@@ -32,3 +32,9 @@ Se pide:
 - saber, para una búsqueda, los aspirantes que todavía no se pueden evaluar, por no haber rendido la cantidad de exámenes requerida.
 - obtener el ranking de aspirantes que califican para una búsqueda, ordenados por el puntaje total que obtuvieron. Recordar que para calificar es necesario haber rendido la cantidad de exámenes requerida por la búsqueda.
 - obtener, para una búsqueda, la colección del total de los puntajes obtenidos por cada aspirante. Se espera como resultado una colección de números.
+
+## Links
+
+- [Volver a ejercicios introductorios](index.md)
+- Siguiente ejercicio: [Pepita 100% con excepciones](pepitaExcepciones.md)
+

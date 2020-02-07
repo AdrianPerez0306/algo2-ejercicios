@@ -81,3 +81,8 @@ comprador _x_, que debe:
   - Cada cultivo sabe cuántos kilos se obtienen por hectárea cultivada (no importa cómo se obtiene el cálculo, éste depende sólo del cultivo)
   - Se debe aumentar la cantidad de kilos del silo según los kilos obtenidos de cada cultivo (considerar que el silo es ilimitado en capacidad)
   - Se debe dejar la cantidad cultivada en 0
+
+## Links
+
+- [Volver a ejercicios introductorios](index.md)
+- Siguiente ejercicio: [Evaluaciones y búsquedas](evaluaciones.md)

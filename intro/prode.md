@@ -43,3 +43,8 @@ para una boleta cuyo precio es $10,
 - Si la agencia es de Capital Federal se queda con $0.50.
 - Si la agencia es del Interior, se queda con $0.80
 - ($0.50 = 5% del importe de la boleta + $0.30 = 3% del importe de la boleta que es < que $1).
+
+## Links
+
+- [Volver a ejercicios introductorios](index.md)
+- Siguiente ejercicio: [Agricultores](agricultores.md)

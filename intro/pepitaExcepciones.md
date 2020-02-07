@@ -22,7 +22,7 @@ class Pepita {
 
   public void comer(int cuanto) {
     this.energia += cuanto
-    if(this.energia > MAX_ENERGIA) {
+    if (this.energia > MAX_ENERGIA) {
       throw new DolorDeEstomagoException()
     }
   }
@@ -97,3 +97,7 @@ Para cada test, indique:
 1. Si el test termina con excepción o termina en forma normal
 2. En caso de terminar con excepción, indique qué tipo de excepción
 
+## Links
+
+- [Volver a ejercicios introductorios](index.md)
+- [Solicitudes de notebooks](solicitudesNotebooks.md)
