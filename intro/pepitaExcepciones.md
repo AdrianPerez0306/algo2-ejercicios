@@ -3,10 +3,10 @@
 
 Pepita, la golondrina, ha sido modelada para poder volar y comer, y cuando eso sucede su energía disminuye y aumenta respectivamente. Ahora se agrega la necesidad de responder ante casos problemáticos:
 
-1- Si come demasiado, superando una cantidad máxima de energía determinada, le duele el estómago y no puede continuar
-2- Si se le pide que vuele más de lo que puede soportar por su energía actual, se queja y no vuela
+1. Si come demasiado, superando una cantidad máxima de energía determinada, le duele el estómago y no puede continuar
+2. Si se le pide que vuele más de lo que puede soportar por su energía actual, se queja y no vuela
 
-Este es el código propuesto:
+Éste es el código propuesto:
 
 ```xtend
 class Pepita {
