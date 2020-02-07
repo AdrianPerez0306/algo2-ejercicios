@@ -1,4 +1,6 @@
 
+![pilasYColas](../images/stacksAndQueues.png)
+
 ## Pilas y Colas
 
 ### El problema
