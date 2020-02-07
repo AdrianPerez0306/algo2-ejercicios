@@ -21,3 +21,11 @@ Aquí recordaremos algunos temas importantes como punto de partida para diseñar
 - [Pepita 100% con excepciones](pepitaExcepciones.md)
 - [Solicitudes de notebooks](solicitudesNotebooks.md)
 
+## Testeo unitario
+
+- [Pepita Testeada](pepitaTesteada.md)
+- [Pilas y Colas](pilasYColas.md)
+
+## Links
+
+- [Volver al menú principal](../README.md)

@@ -50,3 +50,7 @@ Si alguna de las solicitudes falla todo el lote a procesar debe fallar.
 - ¿Cómo modificaría el método para trabajar con excepciones?
 - ¿Qué ventaja presupone? Justificar.
 
+## Links
+
+- [Volver a ejercicios introductorios](index.md)
+- Siguiente ejercicio: [Pepita Testeada](pepitaTesteada.md)

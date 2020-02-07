@@ -100,4 +100,4 @@ Para cada test, indique:
 ## Links
 
 - [Volver a ejercicios introductorios](index.md)
-- [Solicitudes de notebooks](solicitudesNotebooks.md)
+- Siguiente ejercicio: [Solicitudes de notebooks](solicitudesNotebooks.md)
