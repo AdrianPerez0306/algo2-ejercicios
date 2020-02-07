@@ -16,3 +16,6 @@ Aquí recordaremos algunos temas importantes como punto de partida para diseñar
 - [Agricultores](agricultores.md)
 - [Evaluaciones y búsquedas](evaluaciones.md)
 
+## Excepciones
+
+- [Pepita 100% con excepciones](pepitaExcepciones.md)
