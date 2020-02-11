@@ -1,3 +1,5 @@
+![mmorpg](/images/mmorpg.png)
+
 ## Juego de rol
 
 ### Contexto
