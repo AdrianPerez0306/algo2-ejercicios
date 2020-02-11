@@ -44,3 +44,5 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 - [Juego de Rol](juegoRol.md)
 
 **Material teórico relacionado**: [Introducción al Decorator. Clientes de una tarjeta de crédito](https://docs.google.com/document/d/1Ijz8Pe-ci6bYwbxIn-VZDV1QcijDy2JuAUQtohNX0oA/edit?usp=sharing)
+
+## 

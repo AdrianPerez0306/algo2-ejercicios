@@ -39,3 +39,7 @@ Tener en cuenta que los libros pueden combinar estas características (ser senti
 
 Implemente la solución y los tests unitarios utilizando decoradores.
 
+## Links
+
+- [Volver a ejercicios de modelado con objetos](index.md)
+- Siguiente ejercicio: [Juego de Rol](juegoRol.md)
