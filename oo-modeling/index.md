@@ -9,9 +9,13 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 ## Selección de comportamiento
 
-Primeros ejemplos
+### Primeros ejemplos
 
 - [Regalos de cumpleaños](regalosCumple.md)
 - [Ordenamiento de una lista](ordenLista.md)
 - [Clientes de un banco](clientesBanco.md)
 - [Mozo la cuenta](mozo.md)
+
+### Objetos simples y compuestos
+
+- [Manejo de stock](manejoStock.md)
