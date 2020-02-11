@@ -34,4 +34,4 @@ Las restricciones son las siguientes:
 ## Links
 
 - [Volver a ejercicios introductorios](index.md)
-- Siguiente ejercicio: 
+- Siguiente ejercicio: [Uniformes](uniformes.md)

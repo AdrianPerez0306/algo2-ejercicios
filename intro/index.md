@@ -25,6 +25,8 @@ Aquí recordaremos algunos temas importantes como punto de partida para diseñar
 
 - [Pepita Testeada](pepitaTesteada.md)
 - [Pilas y Colas](pilasYColas.md)
+- [Uniformes](uniformes.md)
+- [Uniformes - Segunda parte](uniformes2.md)
 
 ## Links
 
