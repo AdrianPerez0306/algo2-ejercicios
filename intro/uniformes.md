@@ -1,3 +1,5 @@
+![uniforme](/images/uniforme1.jpg)
+
 ## Uniforme
 
 ### El problema
