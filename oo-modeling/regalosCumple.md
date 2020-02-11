@@ -31,4 +31,4 @@ Indique dónde ubicaría el método que define si un regalo le gusta a una perso
 ## Links
 
 - [Volver a ejercicios de modelado con objetos](index.md)
-- Siguiente ejercicio: [Ordenamiento de una lista](orden_lista.md)
+- Siguiente ejercicio: [Ordenamiento de una lista](ordenLista.md)

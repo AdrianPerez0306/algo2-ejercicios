@@ -11,4 +11,6 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 Primeros ejemplos
 
-- [Regalos de cumpleaños](regalos_cumple.md)
+- [Regalos de cumpleaños](regalosCumple.md)
+- [Ordenamiento de una lista](ordenLista.md)
+- [Clientes de un banco](clientesBanco.md)
