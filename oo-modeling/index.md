@@ -19,3 +19,7 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 ### Objetos simples y compuestos
 
 - [Manejo de stock](manejoStock.md)
+- [Ecuaciones](ecuaciones.md)
+- [Tareas](tareas.md)
+- [Cuentas contables](cuentasContables.md)
+
