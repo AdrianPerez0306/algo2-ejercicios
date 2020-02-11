@@ -53,3 +53,11 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 **Material teórico relacionado**: [Ejercicio microprocesador](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit?usp=sharing), o bien [Ejercicio del Firewall](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MTJlMmFkODNmOTdiNWZmNA)
 
+## Patrones creacionales
+
+- [Crear ecuaciones](crearEcuaciones.md), con [una solución posible en Java](https://docs.google.com/document/d/1kTi7n-UNRbDPp47m3w_Ib5vJv1fOSZhOIoFZALsUTiI/edit?usp=sharing)
+- [Crear un tablero del juego de la vida](crearTableroJuegoVida.md)
+
+**Material teórico relacionado**: [Patrones creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)
+
+

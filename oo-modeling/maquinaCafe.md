@@ -10,7 +10,7 @@ interface DispenserAutomatico {
     public boolean tieneCafe(string tipo, float gramos)
     public boolean tieneLeche(TipoLeche tipo, int centilitros)
     public boolean tieneAzucar(float cucharadas)
-    public boolean tieneEdulcorante(float cucharadasEquivalente) //equivalente azucar,edulcorante 
+    public boolean tieneEdulcorante(float cucharadasEquivalentes) //equivalente azucar,edulcorante 
     //... 
 
     public void ponerVaso(TamanioVaso tamanio)
@@ -23,7 +23,7 @@ interface DispenserAutomatico {
       // 2=componenteJamaiquino (sólo en las sucursales de Kingston y Amsterdam) 
     public void dispensarSyrup(int container, int medidas)
     public void dispensarAzucar(float cucharadas)
-    public void dispensarEdulcorante(float cucharadasEquiv)
+    public void dispensarEdulcorante(float cucharadasEquivalentes)
     //... 
 
     public void cancelar()
@@ -57,7 +57,7 @@ Codificar al menos 1 test por cada historia de usuario
 - Sólo se puede elaborar un pedido en simultáneo. Si se hace clic en vaso "Grande" y luego en "Venti", el café se hará en "venti". 
 - Cada menú de los indicados arriba utiliza un único tipo de café. No hace falta modelar la mezcla de distintos tipos de granos de café. 
 - No es necesario implementar todos los llamados a la interfaz, sólo los necesarios para cumplir con los requerimientos y comunicar la solución propuesta. 
-- La empresa que elabora la pantalla nos ha indicado que los botones pulsados por el usuario serán recibidos mediante la llamada a un método llamado Pulsar (String botonPulsado) que nosotros deberemos implementar. Ellos se encargarán de hacer que la máquina llame a dicho método. 
+- La empresa que elabora la pantalla nos ha indicado que los botones pulsados por el usuario serán recibidos mediante la llamada a un método llamado `pulsar(String botonPulsado)` que nosotros deberemos implementar. Ellos se encargarán de hacer que la máquina llame a dicho método. 
 - Las bebidas provistas varían según la región y empresa que contrate el servicio. La configuración es realizada subiendo un archivo de configuración, cuya carga queda fuera del alcance del sistema. 
 - El archivo de configuración indicará los ingredientes disponibles en la máquina, las recetas de café (líquidos, granos, jarabes y especias) y los agregados posibles por cada café 
 - Los ingredientes de las bebidas son proporcionales de acuerdo al tamaño. Por ejemplo, para un café de 16 onzas se requieren 2 cucharadas de café mientras que para uno de 12 onzas se requieren 1.5 cucharadas.
