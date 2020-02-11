@@ -28,4 +28,7 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 - [Tamagotchi](tamagotchi.md)
 - [Aterrizar](aterrizar.md)
 
+## Iteradores
 
+- [Iteradores básicos](iteradores.md)
+- [Manejo de turnos en juegos](manejoTurnos.md)

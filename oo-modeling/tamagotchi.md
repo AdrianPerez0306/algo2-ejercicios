@@ -30,10 +30,12 @@ Una mascota puede jugar si está contenta o aburrida, si está hambrienta no.
 
 Esto quiere decir que está prohibido hacer comparaciones del tipo estado.equals("contento") o cualquiera similar utilizando mensajes especiales.
 
+### Objetivos
+
 Responder las siguientes preguntas:
 
-a. Indique en palabras los pasos necesarios para incorporar un nuevo estado “Triste” en la mascota, de manera que quede listo para funcionar.
-b. Indique cómo resolvería para darles de comer a todas las mascotas que están dentro de una colección “mascotas”.
+- Indique en palabras los pasos necesarios para incorporar un nuevo estado “Triste” en la mascota, de manera que quede listo para funcionar.
+- Indique cómo resolvería para darles de comer a todas las mascotas que están dentro de una colección “mascotas”.
 
 ## Links
 
