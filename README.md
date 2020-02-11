@@ -7,5 +7,4 @@ Este repositorio contiene ejercicios para modelar e implementar en código y te 
 ## Guía de ejercitación práctica
 
 - [Introducción](intro/index.md)
-
-
+- [Modelado con objetos](oo-modeling/index.md)

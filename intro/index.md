@@ -31,3 +31,4 @@ Aquí recordaremos algunos temas importantes como punto de partida para diseñar
 ## Links
 
 - [Volver al menú principal](../README.md)
+- [Siguiente guía: Modelado con objetos](../oo-modeling/index.md)
