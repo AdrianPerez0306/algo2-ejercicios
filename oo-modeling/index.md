@@ -45,4 +45,11 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 **Material teórico relacionado**: [Introducción al Decorator. Clientes de una tarjeta de crédito](https://docs.google.com/document/d/1Ijz8Pe-ci6bYwbxIn-VZDV1QcijDy2JuAUQtohNX0oA/edit?usp=sharing)
 
-## 
+## Modelar comportamiento
+
+- [Procesador básico de texto](procesadorTexto.md)
+- [Máquina de café](maquinaCafe.md)
+- [Juego de la Vida](juegoVida.md)
+
+**Material teórico relacionado**: [Ejercicio microprocesador](https://docs.google.com/document/d/1-esJOhKb_yAABls-XdRrEYHzCv4yn-qqFtCu3xpgCg0/edit?usp=sharing), o bien [Ejercicio del Firewall](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MTJlMmFkODNmOTdiNWZmNA)
+
