@@ -63,7 +63,7 @@ Se deben crear los siguientes objetos comunes a todos los tests:
 - El centro de procesamiento liniers recibió los uniformes uniforme2 (de inducol), sacoAzul y pantalonBlanco (que están asignados a manliba).
 - El centro de procesamiento mataderos recibió el uniforme uniforme1 (que está asignado a manliba).
 
-| Caso de prueba &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Resultado esperado |
+| Caso de prueba <img width="40%"/> | Resultado esperado |
 | ------------- |-------------|
 | 1 Medir la resistencia del uniforme 1	| **8** |
 | 2 Medir la resistencia del uniforme 2 | **11.5** (9 resistencia base del algodón + 0.5 * 5 refuerzos = 9 + 2.5) |
