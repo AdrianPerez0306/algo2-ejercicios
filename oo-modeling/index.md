@@ -28,7 +28,19 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 - [Tamagotchi](tamagotchi.md)
 - [Aterrizar](aterrizar.md)
 
+**Material teórico relacionado**: [El proceso del Diseño. Ejercicio manejo de proyectos](https://docs.google.com/document/d/1yHzmqlJLFNwRGucz4wJgZmeq1zYddNgfQ6G1KcqRhdk/edit?usp=sharing)
+
 ## Iteradores
 
 - [Iteradores básicos](iteradores.md)
 - [Manejo de turnos en juegos](manejoTurnos.md)
+
+**Material teórico relacionado**: [Paper sobre el Iterator Pattern](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NGMzZjI3MGIxYWM0N2Yy)
+
+## Intercepción de código
+
+- [Estacionamiento](estacionamiento.md)
+- [Préstamo de libros](prestamoLibros.md)
+- [Juego de Rol](juegoRol.md)
+
+**Material teórico relacionado**: [Introducción al Decorator. Clientes de una tarjeta de crédito](https://docs.google.com/document/d/1Ijz8Pe-ci6bYwbxIn-VZDV1QcijDy2JuAUQtohNX0oA/edit?usp=sharing)

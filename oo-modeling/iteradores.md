@@ -41,7 +41,7 @@ Utilizar un iterator para generar números al azar con cada llamada a `next()`. 
 
 Debe iterar sobre la colección, devolviendo los elementos que correspondan a un determinado filtro. Se piden los siguientes iterators:
 
-- elementos alternados. Ejemplo: dada la collection `[Obj1,Obj2,Obj3,Obj4]`, debe devolver solo los elementos Obj1 y Obj3 con sucesivas llamadas a next().
+- elementos alternados. Ejemplo: dada la collection `[Obj1,Obj2,Obj3,Obj4]`, debe devolver solo los elementos `Obj1` y `Obj3` con sucesivas llamadas a `next()`.
 - elementos alternados 2: que devuelva los elementos en las posiciones múltiplo de 4.
 - Strings filtrados. Iterando sobre una collection de Strings, debe devolver solo los que comiencen con "b".
 - Strings filtrados 2. Idem anterior, pero debe devolver los que tengan 5 letras.
