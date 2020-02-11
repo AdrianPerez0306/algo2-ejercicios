@@ -23,3 +23,9 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 - [Tareas](tareas.md)
 - [Cuentas contables](cuentasContables.md)
 
+### Estado como objeto
+
+- [Tamagotchi](tamagotchi.md)
+- [Aterrizar](aterrizar.md)
+
+
