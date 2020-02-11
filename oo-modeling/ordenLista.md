@@ -1,3 +1,4 @@
+![ordenamiento](/images/sorting.png)
 
 ## Ordenamiento de una lista
 
