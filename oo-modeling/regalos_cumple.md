@@ -27,3 +27,8 @@ Date getFechaCumple()
 ### Objetivo
 
 Indique dónde ubicaría el método que define si un regalo le gusta a una persona: ¿es en Regalo o en Persona? Resuelva el requerimiento de tres maneras diferentes.
+
+## Links
+
+- [Volver a ejercicios de modelado con objetos](index.md)
+- Siguiente ejercicio: [Ordenamiento de una lista](orden_lista.md)
