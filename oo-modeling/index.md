@@ -60,4 +60,13 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 **Material teórico relacionado**: [Patrones creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)
 
+##  Notificaciones / Manejo de eventos
 
+- [Notificaciones para el manejo de stock](manejoStockNotificaciones.md)
+- [Reserva de libros](reservaLibros.md)
+- [Subastas on-line](subastas.md)
+- [Registro de incidentes](incidentes.md), con [una solución posible](https://docs.google.com/file/d/0B5xDW-XvRuFuMHBuLWk0Y1diTURxbVVYaXlVYnl0bERZUFpB/edit)
+
+## Links
+
+- [Volver al menú principal](../README.md)
