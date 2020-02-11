@@ -19,7 +19,7 @@ List getAutos()
 Luego de algunos días se detectó un problema, dado que desde algunos puntos de la aplicación se envía el mensaje ingresar() -que cumple con todas las validaciones del negocio-, pero desde otros, se evitan las validaciones de esta manera:
 
 ```java
->>desde alguna clase X que conoce al estacionamiento
+// desde alguna clase X que conoce al estacionamiento
 Auto renault12 = new Auto()
 estacionamiento.getAutos().add(renault12)
 ```
