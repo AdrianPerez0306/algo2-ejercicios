@@ -58,7 +58,7 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 - [Crear ecuaciones](crearEcuaciones.md), con [una solución posible en Java](https://docs.google.com/document/d/1kTi7n-UNRbDPp47m3w_Ib5vJv1fOSZhOIoFZALsUTiI/edit?usp=sharing)
 - [Crear un tablero del juego de la vida](crearTableroJuegoVida.md)
 
-**Material teórico relacionado**: [Patrones creacionales](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjFiNjAzMmU4NGFkM2I4)
+**Material teórico relacionado**: [Patrones creacionales](https://docs.google.com/document/d/1UhHVskJKyw7y28AsAASsCXtIodEiJ4coEOiw0QdlOTo/edit?usp=sharing), [Ejemplos creacionales varios](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NjQxMmVmYWQ0NzUwZTFmOA), [Ejemplos creacionales Microprocesador](https://docs.google.com/document/d/1ILsxAvgZwPD4sTtB-rBq7wfJZf22e9G6qpllglAbT2g/edit?usp=sharing)
 
 ##  Notificaciones / Manejo de eventos
 
@@ -66,6 +66,8 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 - [Reserva de libros](reservaLibros.md)
 - [Subastas on-line](subastas.md)
 - [Registro de incidentes](incidentes.md), con [una solución posible](https://docs.google.com/file/d/0B5xDW-XvRuFuMHBuLWk0Y1diTURxbVVYaXlVYnl0bERZUFpB/edit)
+
+**Material teórico relacionado**: [Lista de Correo: Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit?usp=sharing), [Sobre los efectos en el patrón Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#)
 
 ## Links
 
