@@ -1,3 +1,4 @@
+![subastas](/images/auctions.jpg)
 
 ## Subastas On Line
 
