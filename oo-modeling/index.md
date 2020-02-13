@@ -86,6 +86,14 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 **Material teórico relacionado**: [Selección de Personal](https://docs.google.com/document/d/1XWq9azqchoJZ7h8-hLcpA1Zj5T1UtvFtDKbpzxoQ-dw/edit?usp=sharing)
 
+## Surtidos
+
+- [Evaluaciones de Desempeño](evaluacionDesempeno.md)
+- [Lista de correo completa](listaCorreoCompleta.md)
+- [Estanciero Parte 1](estanciero1.md) y [Parte 2](estanciero2.md)
+- [Plantas vs. Zombies](plantasVsZombies.md)
+- [Civilization](civilization.md)
+
 ## Links
 
 - [Volver al menú principal](../README.md)

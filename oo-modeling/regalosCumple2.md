@@ -1,5 +1,5 @@
 
-## Regalos de cumpleaños (parte 2)
+## Regalos de cumpleaños (versión heavy)
 
 ### Contexto
 
