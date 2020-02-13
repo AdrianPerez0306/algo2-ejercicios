@@ -29,7 +29,7 @@ Pasamos en limpio la secuencia:
 
 - El usuario escribe en un browser una URL a nuestro servidor. Ejemplo: http://miWebServer.com/material/examenes/ultimoExamen.pdf
 - Esto es interpretado por un componente que está escuchando el socket y recibe ese pedido. 
-- El componente del punto 2 arma un pedido (http en este caso, podría ser https) para traer el archivo desde un `<directorio raíz definido para el web server que estamos construyendo>/material/examenes/ultimoExamen.pdf`. Podría ser una página html, un doc, o cualquier formato que el browser pueda entender.
+- El componente del punto anterior arma un pedido (http en este caso, podría ser https) para traer el archivo desde un directorio raíz definido para el web server que estamos construyendo, entonces la ruta completa sería `<DIR del web server>/material/examenes/ultimoExamen.pdf`. Podría ser una página html, un doc, o cualquier formato que el browser pueda entender.
 - Si el archivo existe, tomamos ese contenido. Si no existe, hay que escribir un error 404 según está especificado más arriba.
 - A ese contenido se le agrega el encabezado que puede ser http / https. Un objeto debe ser responsable de esto, no importa cómo se implementa.
 - Se debe enviar el mensaje de respuesta a un componente para que llegue serializado vía socket a la IP que hizo el pedido. De esta parte no interesan los detalles técnicos, pero sí debe quedar clara la interfaz: qué objeto es el encargado de este punto, qué mensaje recibe y con qué parámetros.
