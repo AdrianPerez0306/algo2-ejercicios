@@ -75,6 +75,7 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 - [Web server](webServer.md)
 - [Lista de correo (versión corta)](listaCorreo.md)
 
+**Material teórico relacionado**: [Diseño de interfaces entre componentes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit?usp=sharing)
 
 ## Links
 
