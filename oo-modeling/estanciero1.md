@@ -1,3 +1,4 @@
+![estanciero](/images/estanciero.jpg)
 
 ## Estanciero Parte 1 
 
