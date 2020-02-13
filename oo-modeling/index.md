@@ -69,6 +69,13 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 **Material teórico relacionado**: [Lista de Correo: Observer](https://docs.google.com/document/d/1h8Cce8faTG65RXoElPvAsPS-I8H2MxMbemzMcYCL56I/edit?usp=sharing), [Sobre los efectos en el patrón Observer](https://docs.google.com/document/d/1UwTcRLugqDgZuqfWvOxckwk27UBjDo70AF1znzX24QM/edit#)
 
+## Diseño de interfaces entre componentes
+
+- [Mensajería instantánea](mensajeriaInstantanea.md)
+- [Web server](webServer.md)
+- [Lista de correo (versión corta)](listaCorreo.md)
+
+
 ## Links
 
 - [Volver al menú principal](../README.md)
