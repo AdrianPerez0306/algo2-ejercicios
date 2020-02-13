@@ -77,6 +77,15 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 **Material teórico relacionado**: [Diseño de interfaces entre componentes](https://docs.google.com/document/d/1LurA-bCEHhCsIPFiFg1rqfIdfe5SdS4wBePfG45nDqg/edit?usp=sharing)
 
+## Double dispatch
+
+- [Sumando](sumando.md)
+- [Animales marinos](animalesMarinos.md)
+- [Regalos de cumpleaños (versión heavy)](regalosCumple2.md)
+- [Seguros](seguros.md)
+
+**Material teórico relacionado**: [Selección de Personal](https://docs.google.com/document/d/1XWq9azqchoJZ7h8-hLcpA1Zj5T1UtvFtDKbpzxoQ-dw/edit?usp=sharing)
+
 ## Links
 
 - [Volver al menú principal](../README.md)
