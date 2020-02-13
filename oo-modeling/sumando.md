@@ -28,12 +28,10 @@ Poder sumar:
 - un punto y un número
 - un punto y otro punto
 
-**Nota:** representar al número con una clase NewBigDecimal propia.
+### Ayuda
 
-### Solución
-
-Te mostramos el [desarrollo de soluciones alternativas](https://sites.google.com/site/utndesign/material/guia-de-ejercicios/guia-objetos-patrones/sumando/solucion-sumando).
-
+- representar al número con una clase NewBigDecimal propia, que implemente una interfaz común con el `Point2D`
+- implementar una solución con double dispatch o multimétodos, pensando en diferenciar la suma de puntos y la suma de números
 
 ## Links
 
