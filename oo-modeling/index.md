@@ -96,7 +96,6 @@ Para cada uno de los ejercicios, plantee 2 ó 3 formas diferentes de resolverlo.
 
 ##  Avanzados
 
-- [Gestión de Proyectos](https://docs.google.com/document/d/1ouK1dvoLmHaesuwOHp4EsHUKVGZSATJwGL94g9roZfE/edit#heading=h.ivvms5duiogt)
 - [Task Manager](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MzY4ZjEyNTVjODg4NTBiOA), con [una solución posible](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6MjU5NmJlNTBmMjFmODNkMA)
 - [Agencia de Apuestas (incluye una posible solución)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NjQzNDQ3MGMyYzMzYTA3OQ)
 - [Paquetes de Turismo](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx1dG5kZXNpZ258Z3g6NGRiYTAyM2ZjNzU5NjFmZA)
