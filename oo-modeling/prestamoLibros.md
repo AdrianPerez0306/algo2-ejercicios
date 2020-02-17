@@ -37,7 +37,10 @@ Se quiere agregar los siguientes requerimientos:
 
 Tener en cuenta que los libros pueden combinar estas características (ser sentimentales y poderse prestar aún cuando tenga deuda, ser sólo sentimentales, etc.)
 
-Implemente la solución y los tests unitarios utilizando decoradores.
+Implemente la solución y los tests unitarios utilizando
+
+- decoradores
+- mixines, en Wollok, Scala o [cualquier otro lenguaje que soporte mixines](http://en.wikipedia.org/wiki/Mixin#Programming_languages_that_use_mixins)
 
 ## Links
 
