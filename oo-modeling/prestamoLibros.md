@@ -13,7 +13,7 @@ Tenemos las siguientes entidades:
 La interfaz de Socio es:
 
 ```java
-int antiguedadDesde(Date hoy) // antigüedad desde una fecha, medida en meses
+int antiguedadDesde(LocalDate hoy) // antigüedad desde una fecha, medida en meses
 double montoDeuda()           // deuda total en pesos
 boolean esMoroso()            // indica si tiene deuda
 void prestar(Libro libro)     // se permite prestar un libro si pasa las validaciones
